@@ -63,6 +63,4 @@ for person, sc in sorted(res.items()):
 
 f.close()
 
-print(res.keys())
-
 print("已讀取 {} 筆資料，輸出到 {}".format(len(entries), args.outfile))
