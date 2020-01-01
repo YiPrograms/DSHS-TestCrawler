@@ -1,0 +1,6 @@
+requests
+argparse
+beautifulsoup4
+lxml
+pandas
+xlrd
