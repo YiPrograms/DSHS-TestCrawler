@@ -91,6 +91,12 @@ parse.py 班級 [--grade 年級]
 	
 - 整理出高三忠班的成績:\
 	`parse.py 忠 --grade 3`
+	
+#### 注意
+輸出的 .csv 檔案直接用 Excel 開啟可能會有編碼問題\
+請開啟一個新 Excel 檔，然後使用 資料>從文字檔 選擇輸出的 .csv 檔案\
+然後選擇 逗點 為分割符號就 OK 了!\
+[更多資訊](https://blog.surveycake.com/02-06-eeed3fa99249)
 
 ## 安裝方法
 
