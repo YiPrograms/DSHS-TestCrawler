@@ -100,15 +100,15 @@ parse.py 班級 [--grade 年級]
 
 ## 安裝方法
 
-- 需求:
-	- Python 3
-	- Libraries:
-		- requests
-		- argparse
-		- beautifulsoup4
-		- lxml
-		- pandas
-		- xlrd
+### 需求:
+- Python 3
+- Libraries:
+	- requests
+	- argparse
+	- beautifulsoup4
+	- lxml
+	- pandas
+	- xlrd
 
 ### 正常安裝
 
@@ -125,6 +125,8 @@ cd DSHS-TestCrawler
 python -m pip install -r requirements.txt
 ```
 
-### 有還原卡的安裝
+### 直接執行
 
-可以用 WinPython (待研究)
+在Windows上也可以從[這邊](https://github.com/YiPrograms/DSHS-TestCrawler/releases/tag/v1.0)直接下載執行檔使用，不須要安裝Python\
+有還原的系統建議使用此方式下載至 D:\ 來避免安裝
+
